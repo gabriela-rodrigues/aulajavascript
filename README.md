@@ -1,3 +1,3 @@
 # aulajavascript
-introdução 
-discretaço
+
+Temos um index.html e um style.css
